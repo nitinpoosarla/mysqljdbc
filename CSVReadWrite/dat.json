@@ -1,0 +1,104 @@
+{
+	"serviceCall": {
+		"CBLSAuthenticate": {
+			"Username": "AJDED_ADG",
+			"Password": "A$j#d@hQ#2wD7@sEp$3@zZ12#"
+		}
+	},
+	"issueBLED": {
+		"EDInitialApprovalID": "9036747",
+		"EDLicenseID": "101710",
+		"ExpirationDate": "2020-07-14T00:00:00",
+		"ForeignCompCertID": "",
+		"LegalType": 59,
+		"LicenseAddrLine1": " المويهات2 ",
+		"LicenseAddrLine2": "",
+		"LicenseAddrLine3": " بدر و محمد",
+		"LicenseAddrLine4": "5",
+		"LicenseFaxNo": "",
+		"LicenseMobPhoneNo": "",
+		"LicensePhoneNo": "",
+		"LicenseStatus": 1,
+		"LicenseType": 21,
+		"ParentLicenceEDLicenseID": "",
+		"ParentLicenceIssuanceEDID": 0,
+		"RegistrationDate": "2019-07-15T00:00:00",
+		"SubmissionTypeID": 10001,
+		"BNLocalID": "83213",
+		"BNRegNameAr": "عبدالله العمودي للعقارات ذ.م.م",
+		"BNRegNameEn": "ABDULLAH AL AMODI REALSTATE L.L.C",
+		"BranchBL": "N",
+		"BranchBNTextAr": "",
+		"BranchBNTextEn": "",
+		"BLOwner": {
+			"OwnerRelationshipED": {
+				"OwnerRelationshipED": [
+					{
+						"EDOwnerID": "47504",
+						"OwnerDateOfBirth": "1974-11-22T00:00:00",
+						"OwnerEmiratesID": "784197447241601",
+						"OwnerFullNameAR": "احمد عبدالله احمد سعيد سالم",
+						"OwnerFullNameEN": "AHMED ABDULLA AHMED SAEED SALEM",
+						"OwnerGender": "Male",
+						"OwnerMobileNo": "504900242",
+						"OwnerNationality": 1147,
+						"OwnerPassportNo": "YP3Z86725",
+						"OwnerTypeId": 1,
+						"OwnerVisaNo": "",
+						"RelationShipStartDate": "2019-07-15T00:00:00",
+						"RelationshipStatus": "Y",
+						"RelationshipType": "26"
+					},
+					{
+						"EDOwnerID": "12068327",
+						"OwnerDateOfBirth": "1969-08-15T00:00:00",
+						"OwnerEmiratesID": "784196947943211",
+						"OwnerFullNameAR": "عبدالله محسن عمر العمودى",
+						"OwnerFullNameEN": "ABDULLAH MOHSEN OMAR AL AMODI",
+						"OwnerGender": "Male",
+						"OwnerMobileNo": "507564439",
+						"OwnerNationality": 1177,
+						"OwnerPassportNo": "07601769",
+						"OwnerTypeId": 3,
+						"OwnerVisaNo": "",
+						"RelationShipStartDate": "2019-07-15T00:00:00",
+						"RelationshipStatus": "Y",
+						"RelationshipType": "26"
+					},
+					{
+						"EDOwnerID": "12068327",
+						"OwnerDateOfBirth": "1969-08-15T00:00:00",
+						"OwnerEmiratesID": "784196947943211",
+						"OwnerFullNameAR": "عبدالله محسن عمر العمودى",
+						"OwnerFullNameEN": "ABDULLAH MOHSEN OMAR AL AMODI",
+						"OwnerGender": "Male",
+						"OwnerMobileNo": "507564439",
+						"OwnerNationality": 1177,
+						"OwnerPassportNo": "07601769",
+						"OwnerTypeId": 3,
+						"OwnerVisaNo": "",
+						"RelationShipStartDate": "2019-07-15T00:00:00",
+						"RelationshipStatus": "Y",
+						"RelationshipType": "29"
+					}
+				]
+			}
+		},
+		"BusinessActivities": {
+			"BusinessActivityED": [
+				{
+					"ActivityCode": "6820004",
+					"ActivityStatus": "Y",
+					"BADescriptionAR": "الوساطة في بيع العقارات وشرائها",
+					"BADescriptionEN": "Real Estate Purchase and Sale Brokerage"
+				},
+				{
+					"ActivityCode": "68200045",
+					"ActivityStatus": "Y",
+					"BADescriptionAR": "الوساطة في بيع العقارات وشرائها",
+					"BADescriptionEN": "Real Estate  Brokerage"
+				}
+			]
+		}
+	}
+}
